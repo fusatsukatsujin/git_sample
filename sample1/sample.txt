@@ -2,3 +2,6 @@ abcdefg
 hijklmn
 
 new line
+
+hogehoge
+
